@@ -1,0 +1,211 @@
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-size: 1.5em;
+    background-color: #060015;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.top-header{
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    /* background-color: white; */
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+}
+
+.nav{
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -30px;
+}
+
+.nav ul{
+    cursor: pointer;
+    margin-right: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.nav ul li:hover{
+    border-bottom: hsl(0, 0%, 100%) solid;
+}
+
+.nav li{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.user{
+    position: absolute;
+    top: 35px;
+    display: flex;
+    right: 60px;
+    font-size: 1.3em;
+    background-color: #0c0131;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.user a{
+    cursor: pointer;
+}
+
+.user:hover{
+    background-color: rgba(255, 255, 255, 0.429);
+    color: #1b0072;
+}
+
+
+
+
+
+
+
+
+.article{
+    color: #1b0072;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 5px 5px 5px hsla(0, 0%, 100%, 0.6);
+    max-width: 70%;
+    position: absolute;
+    margin-top: 150px;
+    max-height: 300px;
+    border: hsla(260, 96%, 9%, 0.653) solid  1px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.collaboration .white-bg {
+    color: #1b0072;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 5px 5px 5px hsla(0, 0%, 100%, 0.6);
+    padding: 10px 20px;
+    border: hsla(260, 96%, 9%, 0.653) solid  1px;
+}
+
+
+
+.article h1{
+    position: absolute;
+    text-align: center;
+}
+
+.article p{
+    position: relative;
+    margin-top: 110px;
+    text-align: center;
+}
+
+.collaboration{
+    top: 40px;
+    color: white;
+    max-width: 75%;
+    position: absolute;
+    margin-top: 450px;
+    text-align: center;
+}
+
+.heading h1{
+    position: relative;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.para p{
+    position: relative;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.collaboration img{
+    width: 100%;
+    height:  auto;
+}
+
+
+
+
+
+
+
+
+.footer{
+    bottom: 0px;
+    top: 330%;
+    margin-bottom: 0;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.foot-container img{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+.links{
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    gap: 20px;
+}
+
+.foot-container p{
+    position: absolute;
+    top: 10px;
+    left: 38%;
+    text-align: center;
+}
+
+.fa{
+    cursor: pointer;
+}
+

@@ -1,0 +1,349 @@
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-size: 1.5em;
+    background-color: #060015;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.top-header{
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+}
+
+.nav{
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -30px;
+}
+
+.nav ul{
+    cursor: pointer;
+    margin-right: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.nav ul li:hover{
+    border-bottom: hsl(0, 0%, 100%) solid;
+}
+
+.nav li{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.user{
+    position: absolute;
+    top: 35px;
+    display: flex;
+    right: 60px;
+    font-size: 1.3em;
+    background-color: #0c0131;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.user a{
+    cursor: pointer;
+}
+
+.user:hover{
+    background-color: rgba(255, 255, 255, 0.429);
+    color: #1b0072;
+}
+
+
+.btn-1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 3px;
+    top: 310px;
+    left: -150px;
+    height: 20px;
+    width: 120px;
+    padding: 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-content{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    top: 23%;
+}
+
+.container{
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    padding: 25px;
+    width: 990px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.upload{
+    display: flex;
+    border:  2px dashed grey;
+    width: 40%;
+    height: 350px;
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.upload img{
+    position: relative;
+    cursor: pointer;
+    height: 300px;
+    top: 10px;
+    left: 35px;
+}
+
+.upload button{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-weight: 500;
+    font-size: 1em;
+    cursor: pointer;
+    position: relative;
+    text-align: center;
+    height: 40px;
+    width: 160px;
+    top: 300px;
+    right: 150px;
+    background-color: hwb(249 1% 43%);
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+
+.upload button:hover{
+    opacity: .7;
+}
+
+.form-fill{
+    display: flex;
+    justify-content: left;
+    margin-left: 25px;
+}
+
+.form-fill textarea{
+    width: 536px;
+    height: 181px;
+}
+
+.form-fill form input{
+    height: 25px;
+    width: 190px;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+    align-self: flex-start;
+}
+
+#btn{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-weight: 500;
+    font-size: 1em;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 520px;
+    padding: 15px 35px;
+    border-radius: 15px;
+    background-color: #02000d;
+    color: #31008a;
+    cursor: pointer;
+    border: none;
+}
+
+#btn:hover {
+    background-color: #2a05be;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.mail-container{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 900px;
+    margin: 20px;
+    width: 70%;
+    height: 70%;
+}
+
+.msg-box #msg-box{
+    display: flex;
+    position: relative;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.msg-box{
+    position: relative;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, hsla(255, 100%, 6%, 0.7), hsla(254, 100%, 22%, 0.7));
+    color: white;
+    width: 100%;
+    margin-top: 30px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+form .btn{
+    text-align: center;
+    font-size: .9em;
+    position: relative;
+    left: 45%;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #02000d;
+    color: white;
+}
+
+form .btn:hover{
+    background-color: #2100df;
+    color: white;
+}
+
+form input{
+    width: 200px;
+    height: 25px;
+}
+
+
+
+.bg img{
+    width: 1500px;
+    height: 950px;
+}
+
+
+.bg{
+    display: flex;
+    position: absolute;
+    top: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+.footer{
+    bottom: 0px;
+    top: 200%;
+    margin-bottom: 0;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.foot-container img{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+.links{
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    gap: 20px;
+}
+
+.foot-container p{
+    position: absolute;
+    top: 10px;
+    left: 38%;
+    text-align: center;
+}
+
+.fa{
+    cursor: pointer;
+}

@@ -1,0 +1,302 @@
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #000b17;
+    background-image: url(../music/assets/Images/BG-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top-header{
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #000e1c, #022e5c);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+    display: flex;
+    position: absolute;
+    top: 15px;
+    right: 0;
+    width: 300px;
+    gap: 30px;
+    height: 80px;
+    color: white;
+    font-size: 1.5em;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* gap: 30px; */
+}
+
+.nav li{
+    margin-bottom: -15px;
+    padding: 10px 20px;
+    display: flex;
+    position: relative;
+    background-color: #000b17;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.nav li a:hover{
+    color: #0065d2;
+}
+
+
+
+
+
+
+
+
+
+
+.headings{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    position: absolute;
+    top: 140px;
+    margin: 30px;
+    text-align: left;
+    right: 550px;
+    left: 40px;
+}
+
+.side-pic{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 100%;
+    top: 10px;
+} 
+
+.side-pic img{
+    width: 450px;
+    height: auto;
+    box-shadow: 2px 2px 5px hsla(200, 3%, 80%, 0.824);
+}
+
+.side-pic #pic-2{
+    border-radius: 20px;
+}
+
+.top-head{
+    color: white;
+    font-size: 3em;
+}
+
+.topic{
+    color: white;
+    font-size: 2.5em;
+}
+
+.details{
+    color: hsla(0, 4%, 90%, 0.614);
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+.section-2{
+    position: absolute;
+    top: 900px;
+    width: 100%;
+    height: 110%;
+    justify-content: center;
+    color: white;
+    background-color: #000b17;
+    /* background-image: url(../assets/BG-2.avif); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.registration{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    top: 10px;
+    left: 250px;
+    position: relative;
+    justify-content: center;
+    /* background-color: hsla(254, 100%, 25%, 0.7); */
+    width: 70%;
+    border-radius: 25px;
+    height: 90%;
+    /* box-shadow: 5px 5px 5px #4c4c4c; */
+}
+
+.section-2 .registration h1{
+    position: relative;
+    text-align: center;
+}
+
+.section-2 h1{
+    font-size: 5em;
+    position: relative;
+    margin-bottom: 20px;
+    text-align: left;
+    color: white;
+}
+
+.section-2 p{
+    font-size: 1.5em;
+    color: white;
+    position: relative;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.registration img{
+    width: 100%;
+    height:  auto;
+}
+
+.btn{
+    position: relative;
+    left: 30%;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    width: 550px;
+    padding: 15px 25px;
+    border-radius: 20px;
+    background-color: #0058b7;
+    border: none;
+    box-shadow: 5px 5px 5px #4c4c4c;
+}
+
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #afaeb3;
+    color: #000b17;
+}
+
+
+
+.section-3{
+    display: flex;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    top: 2400px;
+    height: 100%;
+    width: 100%;
+    background-image: url(../music/assets/Images/BG-2.avif);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section-3 .info{
+    width: 75%;
+}
+
+.section-3 h1{
+    font-size: 5em;
+    position: relative;
+    margin-bottom: 20px;
+    text-align: left;
+    color: white;
+}
+
+.section-3 p{
+    font-size: 1.5em;
+    color: white;
+    position: relative;
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.footer{
+    bottom: 0px;
+    top: 280%;
+    margin-bottom: 0;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    background-color: #000b17;
+    color: white;
+    background-image: linear-gradient(to bottom right, #000e1c, #022e5c);
+    display: flex;
+    text-align: center;
+    justify-content: center
+}
+
+.foot-container img{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+.links{
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    gap: 20px;
+}
+
+.foot-container p{
+    font-weight: bolder;
+    font-size: 1.3em;
+    position: absolute;
+    top: 10px;
+    left: 40%;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.fa{
+    cursor: pointer;
+}

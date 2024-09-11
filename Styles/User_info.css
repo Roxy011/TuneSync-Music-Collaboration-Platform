@@ -1,0 +1,276 @@
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #02000d;
+    background-image: url(../assets/BG-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top-header{
+    display: flex;
+    position: absolute;
+    height: 110px;
+    width: 100%;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+    display: flex;
+    position: relative;
+    top: 5px;
+    left: 630px;
+    width: 300px;
+    gap: 30px;
+    height: 80px;
+    color: white;
+    font-size: 1.5em;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.nav li{
+    margin-bottom: -30px;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    position: relative;
+    background-color: #080121;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.nav li a:hover{
+    color: #8367f3;
+}
+
+
+
+
+
+
+
+.user_info{
+    display: flex;
+    position: absolute;
+    top: 150px;
+    background-color: hsl(255, 97%, 13%);
+    border-radius: 15px;
+    padding: 20px 30px;
+    left: 30px;
+    max-width: 45%;
+    color: white;
+}
+
+
+.user_info .infomation .Data-info{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+.user_info .infomation .info{
+    opacity: .7;
+}
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background: linear-gradient(0deg, rgb(105, 189, 190) 0%, rgba(0, 59, 69, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} */
+
+
+.main{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 150px;
+    right: 35px;
+    color: #080020;
+}
+
+.player-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 750px;
+    border-radius: 10px;
+    background: linear-gradient(hsla(189, 98%, 39%, 0.6), hsla(184, 75%, 75%, 0.6));
+    padding: 30px 20px;
+}
+
+audio {
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.buttons {
+    display: flex;
+    margin: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.player-container h1 {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+button {
+    margin: 4px;
+    border: none;
+    background-color: transparent;
+}
+
+button img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: -5px;
+}
+
+.buttons img:hover{
+    cursor: pointer;
+}
+
+.buttons,
+.playlist {
+    margin-left: 20px;
+}
+
+li {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+    cursor: pointer;
+    color: #080020;
+}
+
+.playlist a {
+    text-decoration: none;
+    color: #080020;
+} 
+
+
+.playlist{
+    display: flex;
+    position: relative;
+    left: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    bottom: 0px;
+    top: 140%;
+    margin-bottom: 0;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    background-color: #1b0072;
+    background-image: linear-gradient(to bottom right, #080020, #210288);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.foot-container img{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+.links{
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    gap: 20px;
+}
+
+.foot-container p{
+    font-weight: bolder;
+    font-size: 1.3em;
+    position: absolute;
+    top: 10px;
+    left: 38%;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.fa{
+    cursor: pointer;
+}
