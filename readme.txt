@@ -1,21 +1,29 @@
-Sample Downloaded Music: https://www.bensound.com
----------------------------------------------------
-Admin Access
-email: admin@admin.com
-password: admin123
-----------------------------------------------------
-Sample User Access
-email: jsmith@sample.com
-password: jsmith123
-----------------------------------------------------
-Project: Simple Music Cloud Community System using PHP/MySQLi
+TUNESYNC
 
-About The Project
+The Music Collaboration Web Application has laid a solid foundation for a dynamic and interactive platform that can significantly enhance the creative process for independent artists. With further enhancements and continuous improvement, this platform has the potential to become a central hub for music collaboration, fostering innovation and creativity in the music industry.
+A music streaming website is an online platform that allows users to listen to and discover music over 
+the internet. These websites provide access to a vast library of songs from various genres, artists, and 
+labels that can be streamed on-demand or played in radio-style channels. Music streaming websites 
+typically offer two types of services: free and paid. Free services usually come with ads and limited 
+access to features, while paid services offer an ad-free experience with unlimited access to all features, 
+including high-quality audio, offline playback, and personalized recommendations. To provide users 
+with a seamless music listening experience, these websites use sophisticated algorithms that analyse 
+user data to create personalized playlists, suggest new music, and recommend concerts and events.
 
-The Simple Music Cloud Community System is a simple project that is inspired by the Spotify Web Application. This system requires system credentials to access all of the data and functionalities of the music cloud community system. The system has 2 types of users which is the Administrator and the Subscriber. The Admin user can manage all the functionalities of the system including the music uploaded, and playlist of the subscriber user while the Subscriber user can only manage the songs they uploaded and playlist they created but since this also like and music publishing site, the system allows all users to listen all uploaded music or songs and also listen to the playlist songs created by other subscribers and admin. The Subscriber user can also download any song that can be accessed in this system.
+![Screenshot 2024-09-11 141520](https://github.com/user-attachments/assets/f6cb796a-b8c5-4da9-afe5-8686bfb41c70)
 
-How the System Works
-The Simple Music Cloud Community System has a registration form on the Login Page by clicking the "Create New Account". After creating a new account, the system will automatically login to the new subscriber using his/her created credentials. On the "Home Page", the summary numbers of all Genres, Playlist, Songs, Subscriber, Subscriber's Uploaded Songs, and Subscriber's Created Playlist. The Genre page can only be managed by the Admin users which makes the subscribers read the Genre's Details and listen to songs uploaded filtered into the viewed or selected genre. The Playlist Page is the page where the user view, create and manage the playlist. The system navigates to each page without refreshing the window so the music doesn't stop when redirecting other pages.
+
+![Screenshot 2024-09-11 141534](https://github.com/user-attachments/assets/0939f132-1b09-4c2d-923c-e2352012cf61)
+
+
+![Screenshot 2024-09-11 141549](https://github.com/user-attachments/assets/9c4ac5ec-2251-4397-a7da-81a0b886e7d2)
+
+
+![Screenshot 2024-09-11 141607](https://github.com/user-attachments/assets/2a39eff0-9c9f-4645-91c4-2115b10e1bc2)
+
+
+![Screenshot 2024-09-11 141624](https://github.com/user-attachments/assets/faa429c8-088d-48b7-bc3e-52bd5c286f38)
+
 
 Features;
 Login Page
@@ -26,19 +34,3 @@ Manage Playlist
 Manage Genres
 Manage Users
 Music Player Panel
-
-The Simple Music Cloud Community System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
-
-How to Run
-Download the source code and extract the zip file.
-Download or set up any local web server that runs PHP script.
-Open the web-server database and create a new database name it music_db.
-Import the SQL file located in the database folder of the source code.
-Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-Open a web browser and browse the project. E.g [http://localhost/music-cloud-community-system]
-
-I hope this Simple Music Cloud Community System will help you with what you are looking for, feel free to download and modify the source code.
-
-Explore more on this website for more source codes and tutorials.
-
-Enjoy!
