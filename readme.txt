@@ -10,19 +10,19 @@ including high-quality audio, offline playback, and personalized recommendations
 with a seamless music listening experience, these websites use sophisticated algorithms that analyse 
 user data to create personalized playlists, suggest new music, and recommend concerts and events.
 
-![Screenshot 2024-09-11 141520](https://github.com/user-attachments/assets/f6cb796a-b8c5-4da9-afe5-8686bfb41c70)
+https://github.com/user-attachments/assets/f6cb796a-b8c5-4da9-afe5-8686bfb41c70
 
 
-![Screenshot 2024-09-11 141534](https://github.com/user-attachments/assets/0939f132-1b09-4c2d-923c-e2352012cf61)
+https://github.com/user-attachments/assets/0939f132-1b09-4c2d-923c-e2352012cf61
 
 
-![Screenshot 2024-09-11 141549](https://github.com/user-attachments/assets/9c4ac5ec-2251-4397-a7da-81a0b886e7d2)
+https://github.com/user-attachments/assets/9c4ac5ec-2251-4397-a7da-81a0b886e7d2
 
 
-![Screenshot 2024-09-11 141607](https://github.com/user-attachments/assets/2a39eff0-9c9f-4645-91c4-2115b10e1bc2)
+https://github.com/user-attachments/assets/2a39eff0-9c9f-4645-91c4-2115b10e1bc2
 
 
-![Screenshot 2024-09-11 141624](https://github.com/user-attachments/assets/faa429c8-088d-48b7-bc3e-52bd5c286f38)
+https://github.com/user-attachments/assets/faa429c8-088d-48b7-bc3e-52bd5c286f38
 
 
 Features;
