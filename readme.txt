@@ -11,6 +11,10 @@ with a seamless music listening experience, these websites use sophisticated alg
 user data to create personalized playlists, suggest new music, and recommend concerts and events.
 
 
+![Screenshot 2024-09-11 141520](https://github.com/user-attachments/assets/e49649ee-81ba-4371-99d0-b529bf23f8a5)
+
+
+
 Features;
 Login Page
 Registration Page
