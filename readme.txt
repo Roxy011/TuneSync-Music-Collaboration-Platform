@@ -18,19 +18,19 @@ Music Player Panel
 
 
 
-https://github.com/user-attachments/assets/2bca16e7-c295-4f8e-81f5-2df28384aa82
+![Screenshot 2025-07-23 232159](https://github.com/user-attachments/assets/2bca16e7-c295-4f8e-81f5-2df28384aa82)
 
 
-https://github.com/user-attachments/assets/ba0a81bf-2f5c-47da-a6fe-7f8f5e75a6ae
+![Screenshot 2025-07-23 232159](https://github.com/user-attachments/assets/ba0a81bf-2f5c-47da-a6fe-7f8f5e75a6ae)
 
 
-https://github.com/user-attachments/assets/aaf7c5e3-bd28-42e3-a04d-e600360739fb
+![Screenshot 2025-07-23 232159](https://github.com/user-attachments/assets/aaf7c5e3-bd28-42e3-a04d-e600360739fb)
 
 
-https://github.com/user-attachments/assets/4df25cc3-7d5d-4253-addf-e915244fdb9b
+![Screenshot 2025-07-23 232159](https://github.com/user-attachments/assets/4df25cc3-7d5d-4253-addf-e915244fdb9b)
 
 
-https://github.com/user-attachments/assets/b4d1811f-4775-4439-bbb3-73e2632d7ce1
+![Screenshot 2025-07-23 232159](https://github.com/user-attachments/assets/b4d1811f-4775-4439-bbb3-73e2632d7ce1)
 
 
 
