@@ -17,22 +17,22 @@ Manage Users
 Music Player Panel
 
 
-(https://github.com/user-attachments/assets/c1f7c0c9-a371-44d0-ad4c-11b4e224a9ba)
+https://github.com/user-attachments/assets/c1f7c0c9-a371-44d0-ad4c-11b4e224a9ba
 
 
 
-(https://github.com/user-attachments/assets/cb947be8-f1dd-4cae-bc5b-3209fe9d03e4)
+https://github.com/user-attachments/assets/cb947be8-f1dd-4cae-bc5b-3209fe9d03e4
 
 
 
-(https://github.com/user-attachments/assets/0811ec09-f24f-48d7-968a-e11ff94eeed4)
+https://github.com/user-attachments/assets/0811ec09-f24f-48d7-968a-e11ff94eeed4
 
 
 
-(https://github.com/user-attachments/assets/425f1e9a-5206-45f1-86fc-2a956add5127)
+https://github.com/user-attachments/assets/425f1e9a-5206-45f1-86fc-2a956add5127
 
 
 
 
-(https://github.com/user-attachments/assets/a05ba498-6b05-4b5f-8305-609485b46191)
+https://github.com/user-attachments/assets/a05ba498-6b05-4b5f-8305-609485b46191
 
