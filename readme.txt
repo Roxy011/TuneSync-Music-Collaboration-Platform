@@ -16,23 +16,21 @@ Manage Genres
 Manage Users
 Music Player Panel
 
-
-https://github.com/user-attachments/assets/c1f7c0c9-a371-44d0-ad4c-11b4e224a9ba
-
+https://github.com/user-attachments/assets/2bca16e7-c295-4f8e-81f5-2df28384aa82
 
 
-https://github.com/user-attachments/assets/cb947be8-f1dd-4cae-bc5b-3209fe9d03e4
+https://github.com/user-attachments/assets/ba0a81bf-2f5c-47da-a6fe-7f8f5e75a6ae
 
 
-
-https://github.com/user-attachments/assets/0811ec09-f24f-48d7-968a-e11ff94eeed4
-
+https://github.com/user-attachments/assets/aaf7c5e3-bd28-42e3-a04d-e600360739fb
 
 
-https://github.com/user-attachments/assets/425f1e9a-5206-45f1-86fc-2a956add5127
+https://github.com/user-attachments/assets/4df25cc3-7d5d-4253-addf-e915244fdb9b
 
+
+https://github.com/user-attachments/assets/b4d1811f-4775-4439-bbb3-73e2632d7ce1
 
 
 
-https://github.com/user-attachments/assets/a05ba498-6b05-4b5f-8305-609485b46191
+
 
