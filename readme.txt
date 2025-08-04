@@ -1,12 +1,3 @@
-Sample Downloaded Music: https://www.bensound.com
----------------------------------------------------
-Admin Access
-email: admin@admin.com
-password: admin123
-----------------------------------------------------
-Sample User Access
-email: jsmith@sample.com
-password: jsmith123
 ----------------------------------------------------
 Project: Simple Music Cloud Community System using PHP/MySQLi
 
@@ -29,16 +20,3 @@ Music Player Panel
 
 The Simple Music Cloud Community System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
-How to Run
-Download the source code and extract the zip file.
-Download or set up any local web server that runs PHP script.
-Open the web-server database and create a new database name it music_db.
-Import the SQL file located in the database folder of the source code.
-Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-Open a web browser and browse the project. E.g [http://localhost/music-cloud-community-system]
-
-I hope this Simple Music Cloud Community System will help you with what you are looking for, feel free to download and modify the source code.
-
-Explore more on this website for more source codes and tutorials.
-
-Enjoy!
