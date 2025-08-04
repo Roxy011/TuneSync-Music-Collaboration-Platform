@@ -1,0 +1,257 @@
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-size: 1.5em;
+    background-color: #060015;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.top-header{
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    /* background-color: rgb(0, 0, 0); */
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+}
+
+.nav{
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -30px;
+}
+
+.nav ul{
+    cursor: pointer;
+    margin-right: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.nav ul li:hover{
+    border-bottom: hsl(0, 0%, 100%) solid;
+}
+
+.nav li{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.user{
+    position: absolute;
+    top: 35px;
+    display: flex;
+    right: 60px;
+    font-size: 1.3em;
+    background-color: #0c0131;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.user a{
+    cursor: pointer;
+}
+
+.user:hover{
+    background-color: rgba(255, 255, 255, 0.429);
+    color: #1b0072;
+}
+
+
+
+
+
+
+
+
+.main-section{
+    display: flex;
+    position: absolute;
+    top: 150px;
+    color: white;
+    width: 80%;
+}
+
+
+.about-part{
+    display: flex;
+    position: relative;
+    text-align: left;
+    /* background-color: hsla(252, 63%, 59%, 0.701); */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    border: solid white  1px;
+    box-shadow: 2px 2px 5px hsla(200, 3%, 80%, 0.824);
+    padding: 20px 30px;
+    border-radius: 25px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li h5{
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+.contact-field{
+    position: absolute;
+    top: 130%;
+    left: 820px;
+    width: 45%;
+    height: 40%;
+}
+
+.contact{
+    display: flex;
+    position: relative;
+    text-align: left;
+    color: white;
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    border: solid white  1px;
+    box-shadow: 2px 2px 5px hsla(200, 3%, 80%, 0.824);
+    padding: 20px 100px;
+    border-radius: 25px;
+    height: 150%;
+}
+
+form{
+    position: relative;
+    top: 50px;
+    font-size: 1.7em;
+}
+
+form input{
+    height: 30px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+form .btn{
+    height: 45px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    color: #080020;
+    background-color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.contact .btn:hover{
+    background-color: #080020;
+    color: #ffffff;
+}
+
+.success{
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+.side-img{
+    display: flex;
+    position: absolute;
+    top: 140%;
+    left: 100px;
+}
+
+.side-img img{
+    width: 626px;
+    height: 417px;
+    mix-blend-mode: screen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px hsl(195, 4%, 80%);
+}
+
+
+
+
+
+.footer{
+    bottom: 0px;
+    top: 190%;
+    margin-bottom: 0;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.foot-container img{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+.links{
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    gap: 20px;
+}
+
+.foot-container p{
+    position: absolute;
+    top: 10px;
+    left: 38%;
+    text-align: center;
+}
+
+.fa{
+    cursor: pointer;
+}

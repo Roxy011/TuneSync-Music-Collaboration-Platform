@@ -1,0 +1,475 @@
+
+@import url('https://fonts.cdnfonts.com/css/fashion-fetish');
+@import url(https://db.onlinewebfonts.com/c/1d228dea77c0b287f6f2a20064d54aee?family=Tw+Cen+MT+Condensed+Extra+Bold);
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: "Tw Cen MT Condensed Extra Bold";
+    font-size: 1.5em;
+    background-color: #060015;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.top-header{
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #080020, #1b0072);
+}
+
+.logo{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.top-header .logo img{
+    cursor: pointer;
+}
+
+.top-header .logo img{
+    /* background-color: white; */
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+
+img{
+    margin: 0;
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+}
+
+.nav{
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -30px;
+}
+
+.nav ul{
+    cursor: pointer;
+    margin-right: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.nav ul li:hover{
+    border-bottom: hsl(0, 0%, 100%) solid;
+}
+
+.nav li{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.user{
+    position: absolute;
+    top: 35px;
+    display: flex;
+    right: 60px;
+    font-size: 1.3em;
+    background-color: #0c0131;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.user a{
+    cursor: pointer;
+}
+
+.user:hover{
+    background-color: rgba(255, 255, 255, 0.429);
+    color: #1b0072;
+}
+
+
+
+
+
+
+
+
+
+
+
+.artist{
+    color: white;
+    position: absolute;
+    display: flex;
+    left: 40px;
+    top: 110px;
+}
+
+
+.art-collection-1{
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    color: white;
+    position: absolute;
+    display: block;
+    top: 130px;
+    width: 500px;
+    height: 250px;
+    margin: 0;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.collect-1 img{
+    height: 250px;
+}
+
+.collect-1 .t1{
+    position: absolute;
+    top: 10px;
+    left: 250px;
+}
+
+.collect-1 .t1 ul{
+    opacity: .7;
+    position: absolute;
+    top: 150px;
+    left: -45px;
+    margin: 0;
+    width: 500px;
+}
+
+.art-collection-2{
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    color: white;
+    position: absolute;
+    display: block;
+    top: 130px;
+    left: 600px;
+    width: 550px;
+    height: 250px;
+    margin: 0;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.collect-2 img{
+    height: 250px;
+}
+
+.collect-2 .t1{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+
+.collect-2 .t1 ul{
+    opacity: .7;
+    position: absolute;
+    top: 150px;
+    left: -45px;
+    margin: 0;
+    width: 500px;
+}
+
+.art-collection-3{
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    color: white;
+    position: absolute;
+    display: block;
+    top: 530px;
+    width: 500px;
+    height: 250px;
+    margin: 0;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.collect-3 img{
+    height: 250px;
+}
+
+.collect-3 .t1{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+
+.collect-3 .t1 ul{
+    opacity: .7;
+    position: absolute;
+    top: 150px;
+    left: -45px;
+    margin: 0;
+    width: 500px;
+}
+
+.art-collection-4{
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    color: white;
+    position: absolute;
+    display: block;
+    top: 530px;
+    left: 600px;
+    width: 550px;
+    height: 250px;
+    margin: 0;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.collect-4 img{
+    height: 250px;
+}
+
+.collect-4 .t1{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+
+.collect-4 .t1 ul{
+    opacity: .7;
+    position: absolute;
+    top: 150px;
+    left: -45px;
+    margin: 0;
+    width: 500px;
+}
+
+
+.heading-line{
+    top: 1000px;
+    display: flex;
+    position: absolute;
+    left: 40px;
+    color: white;
+}
+
+
+.main-audio-1{
+    position: absolute;
+    display: flex;
+    top: 1150px;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    left: 80px;
+}
+
+.audio-container-1{
+    left: -40px;
+    width: 1400px;
+    height: auto;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+.audio-1{
+    display: flex;
+    padding: 30px 20px;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    position: relative;;
+    border-radius: 10px;
+    gap: 150px;
+}
+
+.audio-detail-1{
+    display: flex;
+    position: relative;
+    padding: 10px 20px;
+    background-color: white;
+    color: #02000d;
+    text-align: left;
+    height: 40px;
+    top: -10px;
+    gap: 240px;
+}
+
+.audio-detail-1 h4{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    left: 10px;
+    top: -20px;
+}
+
+.main-audio-2{
+    position: absolute;
+    display: flex;
+    top: 1350px;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    left: 80px;
+}
+
+.audio-container-2{
+    left: -40px;
+    width: 1400px;
+    height: auto;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+.audio-2{
+    display: flex;
+    padding: 30px 20px;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    position: relative;;
+    border-radius: 10px;
+    gap: 150px;
+}
+
+.audio-detail-2{
+    display: flex;
+    position: relative;
+    padding: 10px 20px;
+    background-color: white;
+    color: #02000d;
+    text-align: left;
+    height: 40px;
+    top: -10px;
+    gap: 210px;
+}
+
+.audio-detail-2 h4{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    left: 10px;
+    top: -20px;
+}
+
+
+.main-audio-3{
+    position: absolute;
+    display: flex;
+    top: 1550px;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    left: 80px;
+}
+
+.audio-container-3{
+    left: -40px;
+    width: 1400px;
+    height: auto;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+.audio-3{
+    display: flex;
+    padding: 30px 20px;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    position: relative;;
+    border-radius: 10px;
+    gap: 150px;
+}
+
+.audio-detail-3{
+    display: flex;
+    position: relative;
+    padding: 10px 20px;
+    background-color: white;
+    color: #02000d;
+    text-align: left;
+    height: 40px;
+    top: -10px;
+    gap: 210px;
+}
+
+.audio-detail-3 h4{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    left: 10px;
+    top: -20px;
+}
+
+
+.main-audio-4{
+    position: absolute;
+    display: flex;
+    top: 1750px;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    left: 80px;
+}
+
+.audio-container-4{
+    left: -40px;
+    width: 1400px;
+    height: auto;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+.audio-4{
+    display: flex;
+    padding: 30px 20px;
+    /* background-color: #644cc9; */
+    background-image: linear-gradient(to bottom right, #0c012f, #23028d);
+    position: relative;;
+    border-radius: 10px;
+    gap: 150px;
+}
+
+.audio-detail-4{
+    display: flex;
+    position: relative;
+    padding: 10px 20px;
+    background-color: white;
+    color: #02000d;
+    text-align: left;
+    height: 40px;
+    top: -10px;
+    gap: 210px;
+}
+
+.audio-detail-4 h4{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    left: 10px;
+    top: -20px;
+}
+
