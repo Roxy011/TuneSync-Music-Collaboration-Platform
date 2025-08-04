@@ -20,3 +20,18 @@ Music Player Panel
 
 The Simple Music Cloud Community System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
+
+<img width="1574" height="779" alt="Image" src="https://github.com/user-attachments/assets/05e3cb2e-1217-4fb5-8368-16c83ae31aee" />
+
+<img width="1576" height="773" alt="Image" src="https://github.com/user-attachments/assets/6b4be2c6-c284-4c25-9fc2-c6e40c2ec163" />
+
+<img width="1568" height="769" alt="Image" src="https://github.com/user-attachments/assets/93436744-8e22-45ab-8a27-fd604640b7c1" />
+
+<img width="1578" height="778" alt="Image" src="https://github.com/user-attachments/assets/b77080b9-5127-48e4-90d2-f01ccf3c7dc0" />
+
+<img width="1597" height="778" alt="Image" src="https://github.com/user-attachments/assets/bd16811f-74f3-420f-8301-afecf1d96fd1" />
+
+<img width="1596" height="778" alt="Image" src="https://github.com/user-attachments/assets/61b8e596-6258-4980-82a8-5a711a4e328c" />
+
+<img width="1584" height="773" alt="Image" src="https://github.com/user-attachments/assets/078a6991-a8d5-4192-9ab7-1c5734aa5077" />
+
